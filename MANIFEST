@@ -3,6 +3,7 @@ Changes
 lib/Data/FormValidator/Filters/Image.pm
 Makefile.PL
 MANIFEST
+MANIFEST.SKIP
 META.yml
 README
 t/image_filter.t
